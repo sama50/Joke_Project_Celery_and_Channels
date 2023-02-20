@@ -1,6 +1,6 @@
 # Joke_Project_Celery_and_Channels
-#https://www.linkedin.com/posts/samadhan-mhaske_project-djangodeveloper-python-activity-7033389415943049216-0SYe?utm_source=share&utm_medium=member_desktop
-git clone "url"
+# https://www.linkedin.com/posts/samadhan-mhaske_project-djangodeveloper-python-activity-7033389415943049216-0SYe?utm_source=share&utm_medium=member_desktop
+# git clone "url"
 
 pip install -r requirements.txt
 cd project
