@@ -10,6 +10,5 @@ than,
         :- celery -A project/main-project-name beat -l INFO
     start worker
         :- celery -A project worker --pool=solo -l info
-""
+
 i hope all is good
-""
